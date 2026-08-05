@@ -13,3 +13,13 @@ Linear Search and Binary Search were implemented and their execution times were 
 
 Conclusion:
 Binary Search is much faster than Linear Search for sorted data. Linear Search is easy to use but slower for large datasets.
+
+
+**Practical 3. Implementation and Time Analysis of Max Heap Sorting Algorithm**
+Summary
+
+Max Heap Sort is a comparison-based sorting algorithm that uses a Max Heap data structure. It first builds a max heap from the input array and then repeatedly swaps the largest element (root) with the last element, reducing the heap size each time until the array is completely sorted. It has a time complexity of O(n log n) in the best, average, and worst cases.
+
+Conclusion
+
+Heap Sort is an efficient and reliable sorting algorithm with a guaranteed O(n log n) time complexity. It sorts the array in place without requiring extra memory, making it suitable for large datasets. Although it is generally slower than Quick Sort in practice, its consistent performance makes it a good choice when predictable execution time is important.
