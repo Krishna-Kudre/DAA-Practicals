@@ -16,8 +16,8 @@ Binary Search is much faster than Linear Search for sorted data. Linear Search i
 
 
 **Practical 3. Implementation and Time Analysis of Max Heap Sorting Algorithm**
-Summary
 
+Summary:
 Max Heap Sort is a comparison-based sorting algorithm that uses a Max Heap data structure. It first builds a max heap from the input array and then repeatedly swaps the largest element (root) with the last element, reducing the heap size each time until the array is completely sorted. It has a time complexity of O(n log n) in the best, average, and worst cases.
 
 Conclusion
@@ -26,8 +26,8 @@ Heap Sort is an efficient and reliable sorting algorithm with a guaranteed O(n l
 
 
 **Practical 4. Implementation and Time analysis of factorial program using iterative and recursive method**
-Summary
 
+Summary:
 The factorial of a number is the product of all positive integers from 1 to that number. It can be calculated using iteration with a loop or recursion where a function calls itself.
 
 Conclusion
@@ -35,8 +35,8 @@ Conclusion
 Both methods correctly calculate factorials. Iteration is simple and uses less memory, while recursion provides a clear and natural approach for understanding recursive functions.
 
 **Practical 7. Implementation of making a change problem using dynamic programming.**
-Summary
 
+Summary:
 The Coin Change problem finds the minimum number of coins needed to make a given amount. The program uses Dynamic Programming to calculate the minimum coins efficiently.
 
 Conclusion
