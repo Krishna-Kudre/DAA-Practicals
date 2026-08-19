@@ -23,3 +23,22 @@ Max Heap Sort is a comparison-based sorting algorithm that uses a Max Heap data 
 Conclusion
 
 Heap Sort is an efficient and reliable sorting algorithm with a guaranteed O(n log n) time complexity. It sorts the array in place without requiring extra memory, making it suitable for large datasets. Although it is generally slower than Quick Sort in practice, its consistent performance makes it a good choice when predictable execution time is important.
+
+
+**Practical 4. Implementation and Time analysis of factorial program using iterative and recursive method**
+Summary
+
+The factorial of a number is the product of all positive integers from 1 to that number. It can be calculated using iteration with a loop or recursion where a function calls itself.
+
+Conclusion
+
+Both methods correctly calculate factorials. Iteration is simple and uses less memory, while recursion provides a clear and natural approach for understanding recursive functions.
+
+**Practical 7. Implementation of making a change problem using dynamic programming.**
+Summary
+
+The Coin Change problem finds the minimum number of coins needed to make a given amount. The program uses Dynamic Programming to calculate the minimum coins efficiently.
+
+Conclusion
+
+The Dynamic Programming approach solves the Coin Change problem efficiently by storing previously calculated results. It avoids repeated calculations and gives the minimum number of coins required.
