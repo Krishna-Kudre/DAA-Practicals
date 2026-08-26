@@ -44,6 +44,15 @@ The Knapsack Problem finds the maximum value of items that can be placed in a ba
 
 The 0/1 Knapsack problem was successfully implemented using Dynamic Programming. The algorithm gives the maximum possible value within the given capacity and is more efficient than checking every possible combination.
 
+**Practical 6. Implementation of chain matrix multiplication using dynamic programming.**
+
+**Summary:**
+Chain Matrix Multiplication is used to find the best order for multiplying a chain of matrices. Dynamic Programming stores the results of smaller matrix chains and uses them to find the minimum multiplication cost.
+
+**Conclusion**
+
+The Chain Matrix Multiplication problem was successfully implemented using Dynamic Programming. It finds the multiplication order that requires the minimum number of scalar multiplications, making the matrix multiplication more efficient.
+
 **Practical 7. Implementation of making a change problem using dynamic programming.**
 
 **Summary:**
