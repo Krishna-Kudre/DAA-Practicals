@@ -20,8 +20,7 @@ Binary Search is much faster than Linear Search for sorted data. Linear Search i
 **Summary:**
 Max Heap Sort is a comparison-based sorting algorithm that uses a Max Heap data structure. It first builds a max heap from the input array and then repeatedly swaps the largest element (root) with the last element, reducing the heap size each time until the array is completely sorted. It has a time complexity of O(n log n) in the best, average, and worst cases.
 
-**Conclusion**
-
+**Conclusion:**
 Heap Sort is an efficient and reliable sorting algorithm with a guaranteed O(n log n) time complexity. It sorts the array in place without requiring extra memory, making it suitable for large datasets. Although it is generally slower than Quick Sort in practice, its consistent performance makes it a good choice when predictable execution time is important.
 
 
@@ -30,8 +29,7 @@ Heap Sort is an efficient and reliable sorting algorithm with a guaranteed O(n l
 **Summary:**
 The factorial of a number is the product of all positive integers from 1 to that number. It can be calculated using iteration with a loop or recursion where a function calls itself.
 
-**Conclusion**
-
+**Conclusion:**
 Both methods correctly calculate factorials. Iteration is simple and uses less memory, while recursion provides a clear and natural approach for understanding recursive functions.
 
 
@@ -40,8 +38,7 @@ Both methods correctly calculate factorials. Iteration is simple and uses less m
 **Summary:**
 The Knapsack Problem finds the maximum value of items that can be placed in a bag with a limited capacity. Dynamic Programming stores previously calculated results in a table, which avoids repeated calculations.
 
-**Conclusion**
-
+**Conclusion:**
 The 0/1 Knapsack problem was successfully implemented using Dynamic Programming. The algorithm gives the maximum possible value within the given capacity and is more efficient than checking every possible combination.
 
 **Practical 6. Implementation of chain matrix multiplication using dynamic programming.**
@@ -49,8 +46,7 @@ The 0/1 Knapsack problem was successfully implemented using Dynamic Programming.
 **Summary:**
 Chain Matrix Multiplication is used to find the best order for multiplying a chain of matrices. Dynamic Programming stores the results of smaller matrix chains and uses them to find the minimum multiplication cost.
 
-**Conclusion**
-
+**Conclusion:**
 The Chain Matrix Multiplication problem was successfully implemented using Dynamic Programming. It finds the multiplication order that requires the minimum number of scalar multiplications, making the matrix multiplication more efficient.
 
 **Practical 7. Implementation of making a change problem using dynamic programming.**
@@ -58,6 +54,5 @@ The Chain Matrix Multiplication problem was successfully implemented using Dynam
 **Summary:**
 The Coin Change problem finds the minimum number of coins needed to make a given amount. The program uses Dynamic Programming to calculate the minimum coins efficiently.
 
-**Conclusion**
-
+**Conclusion:**
 The Dynamic Programming approach solves the Coin Change problem efficiently by storing previously calculated results. It avoids repeated calculations and gives the minimum number of coins required.
