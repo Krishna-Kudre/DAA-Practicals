@@ -34,6 +34,16 @@ Conclusion
 
 Both methods correctly calculate factorials. Iteration is simple and uses less memory, while recursion provides a clear and natural approach for understanding recursive functions.
 
+
+**Practical 5. Implementation of a knapsack problem using dynamic programming.** 
+
+Summary:
+The Knapsack Problem finds the maximum value of items that can be placed in a bag with a limited capacity. Dynamic Programming stores previously calculated results in a table, which avoids repeated calculations.
+
+Conclusion
+
+The 0/1 Knapsack problem was successfully implemented using Dynamic Programming. The algorithm gives the maximum possible value within the given capacity and is more efficient than checking every possible combination.
+
 **Practical 7. Implementation of making a change problem using dynamic programming.**
 
 Summary:
