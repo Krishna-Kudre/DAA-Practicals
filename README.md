@@ -56,3 +56,11 @@ The Coin Change problem finds the minimum number of coins needed to make a given
 
 **Conclusion:**
 The Dynamic Programming approach solves the Coin Change problem efficiently by storing previously calculated results. It avoids repeated calculations and gives the minimum number of coins required.
+
+**Practical 8. Implementation of Graph and Searching (DFS and BFS).**
+
+**Summary:**
+BFS: Visits nodes level by level and uses a queue.DFS: Goes as deep as possible before backtracking and uses recursion/stack.Both algorithms are used for graph traversal and searching.
+
+**Conclusion:**
+BFS and DFS are important graph traversal algorithms. BFS is useful for level-wise traversal and shortest paths in unweighted graphs, while DFS is useful for exploring paths and solving problems involving backtracking.
